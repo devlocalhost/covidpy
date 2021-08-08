@@ -7,7 +7,6 @@ This script uses **[disease.sh](https://disease.sh)** wesbsite/API to get these 
 # screenshots
 ![screenshot1](img1.png)
 ![screenshot2](img2.png)
-![screenshot3](img3.png)
 ![screenshot4](img4.png)
 
 # what information can i get?
