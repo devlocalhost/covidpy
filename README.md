@@ -5,10 +5,10 @@ A python script to get covid stats for every country!
 This script uses **[disease.sh](https://disease.sh)** wesbsite/API to get these informations
 
 # screenshots
-![screenshot1](img1)
-![screenshot2](img2)
-![screenshot3](img3)
-![screenshot4](img4)
+![screenshot1](img1.png)
+![screenshot2](img2.png)
+![screenshot3](img3.png)
+![screenshot4](img4.png)
 
 # what information can i get?
 
