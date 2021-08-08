@@ -1,5 +1,3 @@
-# covidpy
-A python script to get covid stats for every country!
 # covidpy, a script to get covid stats for every country!
 
 This script uses **[disease.sh](https://disease.sh)** wesbsite/API to get these informations
